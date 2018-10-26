@@ -3,6 +3,6 @@
 public class BaseController {
 
     public static void main(String[] args) {
-        psvm
+        System.out.println("初始化");
     }
 }
